@@ -1,0 +1,16 @@
+{
+    "type": "language_pack",
+    "name": "language-pack-kk-kz",
+    "full_code": "crm.language-pack-kk-kz",
+    "vendor": "crm",
+    "code": "kk-kz",
+    "title": "Kazakh Language Pack (Қазақша)",
+    "native_name": "Қазақша",
+    "direction": "ltr",
+    "author": "Anton Barinov",
+    "version": "1.0.3",
+    "category": "localization",
+    "min_crm_version": "20260928.001",
+    "description": "TropaTT CRM жүйесіне арналған қазақ тіліндегі толық LTR локализация пакеті.",
+    "signature": "0c6155d8add3e92edb2d9b5d5dbec901acc38978fa21ade5c82bb5a12e766458"
+}
